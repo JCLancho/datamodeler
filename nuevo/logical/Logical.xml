@@ -1,0 +1,7 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<LogicalDesign class="oracle.dbtools.crest.model.design.logical.LogicalDesign" name="Logical" id="6B544F11-057E-34D8-DB9E-1B62835F534D" mainViewID="F40A9589-75DC-69EE-0C59-E8885945CA82">
+<createdBy>jlanchom</createdBy>
+<createdTime>2022-03-02 10:52:36 UTC</createdTime>
+<ownerDesignName>nuevo</ownerDesignName>
+<shouldBeOpen>false</shouldBeOpen>
+</LogicalDesign>

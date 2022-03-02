@@ -1,0 +1,8 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<OSDM_Design class="oracle.dbtools.crest.model.design.Design" name="nuevo" id="F9CEB73E-1AF7-6AC8-197F-CF5A8F07360C" version="3.5">
+<createdBy>jlanchom</createdBy>
+<createdTime>2022-03-02 10:52:36 UTC</createdTime>
+<ownerDesignName>nuevo</ownerDesignName>
+<capitalNames>false</capitalNames>
+<designId>F9CEB73E-1AF7-6AC8-197F-CF5A8F07360C</designId>
+</OSDM_Design>
